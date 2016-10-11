@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "624681264465",
+    "project_id": "default-demo-app-e2fdf"
+  },
+  "client": [
+    {
+      "client_info": {
+        "android_client_info": {
+          "package_name": "gcm.play.android.samples.com.gcmquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624681264465-a1fik6vkj2b1bqe6rbb8dnhni0o2slqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqo8W8A6-IiuKbw6v_Zm1qbZI98gb-OZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624681264465:android:56a768ddc4709062",
+        "android_client_info": {
+          "package_name": "com.freelance.faisal.hirecycles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624681264465-h1snm5omgb67fcpa7stj40tf35u0l47r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelance.faisal.hirecycles",
+            "certificate_hash": "73D62158C021365A846B99365DE6C17F6F98B411"
+          }
+        },
+        {
+          "client_id": "624681264465-a1fik6vkj2b1bqe6rbb8dnhni0o2slqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqo8W8A6-IiuKbw6v_Zm1qbZI98gb-OZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
